@@ -1,0 +1,34 @@
+This project was created using C++
+----------------------------------------------------------------
+1. GuessGame
+
+   Rules of the Game :
+*# There are three holes . A rat is hidden in one of those three holes.
+   The Rat shuffles its position every time.
+*# You have to guess the hole in which the Rat is hidden among the three holes.
+*# The hole in which Rat is present is named as (R) and rest two are named as (N).
+*# You have some cash(inhand_cash) with you.
+*# You make a bet (amount_bet) for playing this game every time you make a guess.
+*# If your guess is wrong, you lose the amount_bet from your inhand_cash.
+   If you guess is right, you win twice the amount_bet in your inhand_cash.
+*# Keep playing and keep winning until you go out of cash.
+
+
+2. Rock Paper Scissor
+
+Rock Paper Scissor (which is also called Stone Paper Scissor) is a hand game and played between two people, in which each player simultaneously forms one of three shapes. The winner of the game is decided as per the below rules:
+
+Rock vs Paper -> Paper wins.
+Rock vs Scissor -> Rock wins.
+Paper vs Scissor -> Scissor wins.
+In this game, the user will be asked to make choice and according to the choice of user and computer and then the result will be displayed along with the choices of both computer and user.
+
+
+----------------------------------------------------------------
+The program does not need any special requirements, and runs as a normal windows application.\
+
+
+Author : AJAY  MAHIWAL
+
+Thank You For Being Here. (Feeling : Happy And Relax)
+    
